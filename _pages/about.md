@@ -1,9 +1,9 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Anders Hjort"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-The front page of my website. 
+I work on data science and machine learning for the real estate indudystry as a Senior Data Scientist at Eiendomsverdi AS. I have a PhD in statistics from the University of Oslo
